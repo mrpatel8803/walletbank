@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap%27');
+
+* {
+    font-family: 'Oswald', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d4eff1;
+}
+
+a {
+    padding-left: 1rem;
+}
+
+
+#wallet-img {
+    height: 10vh;
+    width: 5vw;
+}
+
+#col1-txt1 {
+    font-size: 40px;
+    width: 8rem;
+    line-height: 49px;
+    color: #a5e0e3;
+    margin-top: 4rem;
+    margin-left: -1.5rem;
+}
+
+#logo {
+    max-width: 5vw;
+    margin-left: 3em;
+    margin-top: 2em;
+    padding: 0;
+}
+
+#wallettxt {
+    margin-top: 2em;
+    margin-left: 0em;
+}
+
+#barcode {
+    margin-top: 0.5rem;
+    margin-left: -1.8rem;
+}
+
+#mobile {
+    left: 30.5vw;
+    position: absolute;
+    z-index: 1;
+    top: 7vw;
+    box-shadow: 9px 9px #df3900;
+    border-radius: 0px 10px 10px 14px;
+    max-width: 21vw;
+}
+.div
+{
+    padding: 2px;
+    background-color: white;
+    width: 28px;
+    margin-top: 5px;
+}
+#gop
+{
+    font-size: 9vw;
+    text-shadow: 8px 8px #f54002;
+}
+#dow-btn
+{
+    padding-left: 11rem;
+    background-color: black;
+}
+#ul1
+{
+    padding-left: 2.6rem;
+    font-size: 3vw;
+    margin-top: 1rem;
+}
+ul {
+    list-style: none;
+  }
+ul li::before {
+    content: "\2022";
+    color: #d4eff1;
+    font-weight: bold;
+    display: inline-block; 
+    width: 3rem;
+    
+  }
+#dow-btn
+{
+    color: white;
+    width: 16vw;
+    padding: 0;
+    font-size: 2vw;
+}
+#sp1
+{
+    font-weight: 900;
+}
+#sp2
+{
+    font-weight: 900;
+}
+#sp3
+{
+    font-weight: 900;
+    color:#ff5c24 ;
+}
+#spcol
+{
+    padding-top: 4vw;
+    font-size: 3vw;
+    text-align: center;
+}
+.card-h1
+{
+    font-size: 2vw;
+    font-weight: 800;
+}
+.card-h3
+{
+    font-size: 1.3vw;
+    font-weight: 400;
+    color: #657d7e;
+}
+.lets-h1
+{
+    font-size: 4vw;
+    line-height: 5vw;
+}
+#learnmor
+{
+    border: none;
+    background-image: linear-gradient(to bottom, #d4eff1 50%,#ff5c24 50%);
+    font-size: 2vw;
+    width: 14vw;
+    font-weight: 900;
+    margin-top: 2vw;
+}
+#round
+{
+    background: #ff5c24;
+    height: 32vw;
+    border-radius: 18vw;
+    width: 32vw;
+    margin-top: 4vw;
+    margin-left: 8.5vw;
+}
+#cross-img
+{
+    position: absolute;
+    top: -3vw;
+    right: 9vw;
+    rotate: -33deg;
+    border-radius: 0px 8px 12px 0px;
+    max-width: 22vw;
+}
+#vimg
+{
+    border-radius: 3vw;
+    max-width: 39vw;
+    height: 33vw;
+}
+.we-h1
+{
+    font-size: 4vw;
+    line-height: 5vw;
+    width: 38vw;
+}
+.our-h1
+{
+    text-align: center;
+    font-size: 4vw;
+    line-height: 5vw;
+}
+#btnm
+{
+    background: #ff5c24;
+    border: none;
+    border-radius: 21px;
+    width: 8vw;
+    color: white;
+    font-size: 12px;
+    padding: 0.5vw;
+    font-weight: 200;
+}   
